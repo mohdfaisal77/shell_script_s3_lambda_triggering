@@ -1,0 +1,2 @@
+# shell_script_s3_lambda_triggering
+shell_script_s3_lambda_triggering
